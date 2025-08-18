@@ -57,7 +57,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 ### Clone the current repo
 
 ```
-git clone https://github.com/<your-username>/<your-nvim-repo>.git ~/.config/nvim
+git clone https://github.com/NadmanFaisal/neovim-config.git ~/.config/nvim
 ```
 
 ### Start Neovim
