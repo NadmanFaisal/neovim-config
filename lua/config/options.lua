@@ -3,3 +3,4 @@
 -- Add any additional options here
 vim.g.have_nerd_font = true
 vim.g.icons_enabled = true
+vim.g.autoformat = false
