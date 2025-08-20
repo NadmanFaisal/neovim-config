@@ -14,6 +14,7 @@ folke/lazy.nvim – Plugin manager
 - nvim-zh/colorful-winsep.nvim – Colorful window separators
 - nvim-tree/nvim-web-devicons – Filetype icons
 - nvim-lualine/lualine.nvim – Statusline (configured via example.lua)
+- uga-rosa/ccc.nvim - Inline color preview and color picker
 - lazyvim.plugins.extras.ui.mini-animate – Window animations
 - lazyvim.plugins.extras.ui.mini-starter – Startup screen
 
