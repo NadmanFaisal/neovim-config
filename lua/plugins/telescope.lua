@@ -5,10 +5,11 @@ return {
   dependencies = { "nvim-lua/plenary.nvim" },
   opts = {
     pickers = {
-      find_files = { hidden = true, no_ignore = true },
+      find_files = { hidden = false, no_ignore = false },
       live_grep = {
         additional_args = function()
-          return { "--hidden", "--no-ignore" }
+          -- <leader> "/" (Live grep) is also powered by telescope
+          -- return { "--hidden", "--no-ignore" }
         end,
       },
     },
