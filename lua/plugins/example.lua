@@ -134,6 +134,7 @@ return {
         "typescript",
         "vim",
         "yaml",
+        "java",
       },
     },
   },
@@ -149,6 +150,7 @@ return {
         "tsx",
         "typescript",
         "prisma",
+        "Python"
       })
     end,
   },

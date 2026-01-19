@@ -4,3 +4,4 @@
 vim.g.have_nerd_font = true
 vim.g.icons_enabled = true
 vim.g.autoformat = false
+vim.opt.clipboard = "unnamedplus"
