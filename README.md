@@ -18,6 +18,7 @@ folke/lazy.nvim – Plugin manager
 - uga-rosa/ccc.nvim - Inline color preview and color picker
 - lazyvim.plugins.extras.ui.mini-animate – Window animations
 - lazyvim.plugins.extras.ui.mini-starter – Startup screen
+- ellisonleao/gruvbox.nvim – Gruvbox colorscheme
 
 ### Git
 
@@ -31,7 +32,8 @@ folke/lazy.nvim – Plugin manager
 
 - neovim/nvim-lspconfig – LSP support
 - jose-elias-alvarez/typescript.nvim – TypeScript tools
-- ellisonleao/gruvbox.nvim – Gruvbox colorscheme
+- lazyvim.plugins.extras.lang.python - Python tools and LSP
+- lazyvim.plugins.extras.lang.clangd - C/C++ Support
 - lazyvim.plugins.extras.lang.typescript – TypeScript enhancements
 - lazyvim.plugins.extras.lang.json – JSON enhancements
 - nvim-treesitter/nvim-treesitter – Syntax highlighting
