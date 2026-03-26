@@ -11,7 +11,7 @@ vim.keymap.set(
 )
 
 -- Exit terminal mode by pressing <Esc>
--- vim.keymap.set("t", "<Esc>", "<C-\\><C-n>", { noremap = true, silent = true, desc = "Exit terminal to normal mode" })
+vim.keymap.set("t", "<Esc>", "<C-\\><C-n>", { noremap = true, silent = true, desc = "Exit terminal to normal mode" })
 
 -- Also tell which-key so it appears in the popup menu
 local wk = require("which-key")

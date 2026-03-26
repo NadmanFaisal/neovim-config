@@ -25,7 +25,6 @@ folke/lazy.nvim – Plugin manager
 - kdheepak/lazygit.nvim – Integration with Lazygit
 - nvim-lua/plenary.nvim – Dependency
 - Search & Navigation
-- nvim-telescope/telescope.nvim – Fuzzy finder
 - folke/snacks.nvim – Extra picker/search utilities
 
 ### Language Support
